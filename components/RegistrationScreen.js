@@ -13,9 +13,9 @@ import {
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 
-import PrimaryBtn from "./PrimaryBtn";
-import PasswordInput from "./PasswordInput";
-import ImageInput from "./ImageInput";
+import { PrimaryBtn } from "./PrimaryBtn";
+import { PasswordInput } from "./PasswordInput";
+import { ImageInput } from "./ImageInput";
 import { registerUser } from "../servises/auth";
 
 export const data = {

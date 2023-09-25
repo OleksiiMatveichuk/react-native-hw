@@ -13,8 +13,8 @@ import {
   Alert,
 } from "react-native";
 
-import PrimaryBtn from "./PrimaryBtn";
-import PasswordInput from "./PasswordInput";
+import {PrimaryBtn} from "./PrimaryBtn";
+import {PasswordInput} from "./PasswordInput";
 import { loginUser } from "../servises/auth";
 
 const data = {
