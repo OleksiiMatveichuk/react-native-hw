@@ -13,6 +13,7 @@ import {
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 
+// import { PrimaryBtn, PasswordInput, ImageInput } from "./index";
 import { PrimaryBtn } from "./PrimaryBtn";
 import { PasswordInput } from "./PasswordInput";
 import { ImageInput } from "./ImageInput";
